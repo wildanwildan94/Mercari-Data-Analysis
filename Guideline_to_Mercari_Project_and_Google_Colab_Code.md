@@ -2,7 +2,7 @@ Mercari Price Analysis Project
 
 A PDF with key findings of the data analysis and prediction
 analysis can be found at:
-https://github.com/wildanwildan94/Mercari-Price-Analysis----Inference-Prediction-of-Products/blob/master/Mercari_Price_Analysis_Project_C.pdf
+https://github.com/wildanwildan94/Mercari-Data-Analysis/blob/master/Mercari_Data_Price_Analysis_Project.pdf
 
 Google Colaboratory Notebooks can be found at:
 (I) Data Analysis - Mercari
